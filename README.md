@@ -16,7 +16,7 @@ Modern note-taking application with real-time synchronization and encrypted note
 - Scalable Django REST API with JWT authentication
 - Responsive React frontend with optimized state management
 
-[View Repository](https://github.com/ethanpae/peridot) | [Live Demo](#)
+[View Repository](https://github.com/streylix/peridot) | [Live Demo](#)
 
 ### Inertia – iOS Mobile Application
 Native iOS application with offline-first architecture and streak tracking
