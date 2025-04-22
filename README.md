@@ -1,7 +1,6 @@
 # Ethan Pae
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/)
-[![Location](https://img.shields.io/badge/Location-Chesapeake,%20VA-green)]()
 
 Computer Science student at James Madison University with a strong foundation in full-stack development, mobile applications, and automation tools. Passionate about building practical software solutions with modern technologies.
 
