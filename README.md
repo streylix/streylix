@@ -76,6 +76,3 @@ Minor in Entrepreneurship
 
 **Tidewater Community College** (May 2022)  
 Associate of Science, Computer Science
-
-## 🔗 Lets connect!
-- LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/)
