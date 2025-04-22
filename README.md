@@ -54,7 +54,7 @@ Automated Instagram networking system for account growth analysis
 - Mutual follower analysis and engagement tracking
 - Rate limiting and error handling for platform compliance
 
-[View Repository](https://github.com/streylix/instagram-automation)
+[View Repository](https://github.com/streylix/instagram-automation](https://github.com/streylix/Instagram-Networking-Toolkit))
 
 ## 💻 Skills
 
