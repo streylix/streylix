@@ -16,7 +16,7 @@ Modern note-taking application with real-time synchronization and encrypted note
 - Scalable Django REST API with JWT authentication
 - Responsive React frontend with optimized state management
 
-[View Repository](https://github.com/streylix/peridot) | [Live Demo](#)
+[View Repository](https://github.com/streylix/peridot) | [Live Demo](https://peridot-iota.vercel.app/)
 
 ### Inertia – iOS Mobile Application
 Native iOS application with offline-first architecture and streak tracking
@@ -27,7 +27,7 @@ Native iOS application with offline-first architecture and streak tracking
 - Innovative inertia-based growth mechanics and interactive visualizations
 - CI/CD integration via GitHub Actions
 
-[View Repository](https://github.com/ethanpae/inertia) | [App Store](#)
+[View Repository](https://github.com/streylix/inertia)
 
 ### Video Processing Tools
 AI-powered video enhancement utilities
@@ -38,13 +38,13 @@ AI-powered video enhancement utilities
 - Intelligent tool that removes silent segments from videos
 - Leverages OpenAI's Whisper model for precise speech detection
 
-[View Repository](https://github.com/ethanpae/clipify)
+[View Repository](https://github.com/streylix/clipify)
 
 #### Captify
 - Automatically adds customizable animated captions to videos
 - Extensive styling options for professional-looking results
 
-[View Repository](https://github.com/ethanpae/captify)
+[View Repository](https://github.com/streylix/captify)
 
 ### Instagram Networking Automation Tool
 Automated Instagram networking system for account growth analysis
@@ -54,7 +54,7 @@ Automated Instagram networking system for account growth analysis
 - Mutual follower analysis and engagement tracking
 - Rate limiting and error handling for platform compliance
 
-[View Repository](https://github.com/ethanpae/instagram-automation)
+[View Repository](https://github.com/streylix/instagram-automation)
 
 ## 💻 Skills
 
